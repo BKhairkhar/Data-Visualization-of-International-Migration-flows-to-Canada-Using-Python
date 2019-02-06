@@ -1,4 +1,4 @@
-# Data-Visualization-with-Python-for-Immigration-to-Canada-from-1980-to-2013
+# Data-Visualization-with-Python
 
 Problem Defination - 
 Here We are going to analyze the Immigration to Canada from-1980-to-2013 with different Visualization tools ,liobraries with Python 
