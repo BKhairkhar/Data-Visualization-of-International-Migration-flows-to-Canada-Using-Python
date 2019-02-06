@@ -11,5 +11,12 @@ Immigration to Canada is the process by which people migrate to Canada to reside
 
 In Canada there are four categories of immigrants: family-class (closely related persons of Canadian residents living in Canada), economic immigrants (skilled workers and business people), refugees (people who are escaping persecution, torture or cruel and unusual punishment), and the humanitarian and other category (people accepted as immigrants for humanitarian or compassionate reasons). In 2016, Canada admitted 296,346 permanent residents, compared to 271,845 the previous year – the highest admissions levels since 2010. Of those admitted, 53% were economic immigrants and their accompanying immediate families; 26% were family class; 20% were either resettled refugees or protected persons; and 1% were in the humanitarian and other category.
 
+---------------------------------------------------------------------------------------------------------
 
+Hands on Numpy, Pandas, and Matplotlib, an analysis on The Dataset: Immigration to Canada from 1980 to 2013
+
+Note:
+install Numpy, Pandas, Matplotlib and xldr using pip:
+$ pip install Numpy/Pandas/Matplotlib/xldr
+We will import dataset from an xlsx file with sheet name = 'Canada by Citizenship'
 
